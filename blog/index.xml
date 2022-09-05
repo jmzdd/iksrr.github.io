@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>iksrr&#39;s blog</title>
-    <link>http://example.com/</link>
-    <description>Recent content on iksrr&#39;s blog</description>
+    <title>Blogs on iksrr&#39;s blog</title>
+    <link>http://example.com/blog/</link>
+    <description>Recent content in Blogs on iksrr&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>© 2022</copyright>
-    <lastBuildDate>Sun, 04 Sep 2022 21:41:14 +0800</lastBuildDate><atom:link href="http://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Sep 2022 21:41:14 +0800</lastBuildDate><atom:link href="http://example.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog1</title>
       <link>http://example.com/blog/blog1/</link>
