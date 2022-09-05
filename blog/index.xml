@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on iksrr&#39;s blog</title>
-    <link>http://example.com/blog/</link>
+    <link>https://jmzdd.github.io/iksrr.github.io/blog/</link>
     <description>Recent content in Blogs on iksrr&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>© 2022</copyright>
-    <lastBuildDate>Sun, 04 Sep 2022 21:41:14 +0800</lastBuildDate><atom:link href="http://example.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Sep 2022 21:41:14 +0800</lastBuildDate><atom:link href="https://jmzdd.github.io/iksrr.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog1</title>
-      <link>http://example.com/blog/blog1/</link>
+      <link>https://jmzdd.github.io/iksrr.github.io/blog/blog1/</link>
       <pubDate>Sun, 04 Sep 2022 21:41:14 +0800</pubDate>
       
-      <guid>http://example.com/blog/blog1/</guid>
+      <guid>https://jmzdd.github.io/iksrr.github.io/blog/blog1/</guid>
       <description>Hugo ships with several Built-in Shortcodes for rich content, along with a Privacy Config and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.</description>
     </item>
     
     <item>
       <title>Blog Post</title>
-      <link>http://example.com/blog/1111/</link>
+      <link>https://jmzdd.github.io/iksrr.github.io/blog/1111/</link>
       <pubDate>Sun, 04 Sep 2022 21:29:20 +0800</pubDate>
       
-      <guid>http://example.com/blog/1111/</guid>
+      <guid>https://jmzdd.github.io/iksrr.github.io/blog/1111/</guid>
       <description>no</description>
     </item>
     
