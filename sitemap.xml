@@ -2,20 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jmzdd.github.io/iksrr.github.io/</loc>
+    <loc>http://example.com/</loc>
+    <lastmod>2022-09-05T11:57:00+08:00</lastmod>
+  </url><url>
+    <loc>http://example.com/blog/</loc>
+    <lastmod>2022-09-05T11:57:00+08:00</lastmod>
+  </url><url>
+    <loc>http://example.com/blog/my-first-post/</loc>
+    <lastmod>2022-09-05T11:57:00+08:00</lastmod>
+  </url><url>
+    <loc>http://example.com/blog/blog1/</loc>
     <lastmod>2022-09-04T21:41:14+08:00</lastmod>
   </url><url>
-    <loc>https://jmzdd.github.io/iksrr.github.io/blog/blog1/</loc>
-    <lastmod>2022-09-04T21:41:14+08:00</lastmod>
-  </url><url>
-    <loc>https://jmzdd.github.io/iksrr.github.io/blog/</loc>
-    <lastmod>2022-09-04T21:41:14+08:00</lastmod>
-  </url><url>
-    <loc>https://jmzdd.github.io/iksrr.github.io/blog/1111/</loc>
+    <loc>http://example.com/blog/1111/</loc>
     <lastmod>2022-09-04T21:29:20+08:00</lastmod>
   </url><url>
-    <loc>https://jmzdd.github.io/iksrr.github.io/categories/</loc>
+    <loc>http://example.com/categories/</loc>
   </url><url>
-    <loc>https://jmzdd.github.io/iksrr.github.io/tags/</loc>
+    <loc>http://example.com/tags/</loc>
   </url>
 </urlset>
