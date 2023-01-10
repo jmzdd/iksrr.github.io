@@ -24,8 +24,9 @@ jobs:
 
       # TODO: add a build step here
 
-      - name: Upload to Deno Deploy
+      - name: Deploy to Deno Deploy
         uses: denoland/deployctl@v1
         with:
-          project: "jmzdd-iksrr-github-io"
-          entrypoint: "./main.ts" # TODO: update entrypoint
+          project: hugo-on-deno-deploy # the name of the project on Deno Deploy
+          entrypoint: https://deno.land/std@0.140.0/http/file_server.ts
+          root: public # Where the built HTML/CSS/JS files are located.
