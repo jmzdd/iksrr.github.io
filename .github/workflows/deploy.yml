@@ -1,4 +1,4 @@
-name: Deploy
+name: Deploy to Deno Deploy
 on: 
   push:
     branches: [ master ]
@@ -17,13 +17,23 @@ jobs:
 
     steps:
       - name: Clone repository
-        uses: peaceiris/actions-hugo@v2
+        uses: actions/checkout@v2
+        with:
+          submodules: true # Fetch Hugo themes (true or recursive)
+          fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
 
       # TODO: add a build step here
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+
+      - name: Build site
+        run: hugo --minify
 
       - name: Upload to Deno Deploy
         uses: denoland/deployctl@v1
         with:
           project: "jmzdd-iksrr-github-io"
-          entrypoint: "./main.ts" # TODO: update entrypoint
+          entrypoint: https://deno.land/std@0.140.0/http/file_server.ts
           root: public
