@@ -1,27 +1,27 @@
 # DO NOT REMOVE THIS
 theme = "hugo-theme-codex" 
 
-# Override these settings with your own
-title = "codex"
-languageCode = "en-us"
-baseURL = "https://example.org/"
-copyright = "© {year}"
+# 用你自己的设置覆盖这些设置
+title = "jmzdd's blog"
+languageCode = "zh-CN"
+baseURL = "https://iksrr.tk/"
+copyright = "© {2022}"
 
-# Add your Disqus shortname here.
+# 在这里添加你的Discuz短名
 # disqusShortname = ""
 
-# Add your Google Analytics identifier: UA-XXXXXXXX-X
+# 添加你的谷歌分析标识符
 # googleAnalytics = "" 
 
 # Optional params
 [params]
-  # Follow the Hugo date/time format reference here: 
+  # 按照雨果的日期/时间格式,参考这里 
   # https://gohugo.io/functions/format/#gos-layout-string
   dateFormat = "Jan 2 2006"
 
-  # Links to your social accounts, comment/uncomment as needed. Icons will be displayed for those specified.
+  # 链接到你的社交账户，根据需要评论/取消评论。图标将显示为指定的那些。
   twitter = "https://twitter.com/<your handle>"
-  github = "https://github.com/<your handle>"
+  github = "https://github.com/jmzdd"
   # email = "mailto:<your email>"
   # mastodon = "https://mastodon.social/@nickname"
   # facebook = "https://facebook.com/<your handle>"
@@ -30,10 +30,10 @@ copyright = "© {year}"
   # linkedin = "<link to your profile>"
   # youtube = "https://www.youtube.com/channel/<your channel>"
   
-  # Titles for your icons (shown as tooltips), and also their display order.
+  # 你的图标的标题（作为工具提示显示），以及它们的显示顺序
   # Currently, these icons are supported: 
   #   "Twitter", "GitHub", "Email", "Mastodon", "Facebook", "GitLab", "Instagram", "LinkedIn", "YouTube"
-  iconOrder = ["Twitter", "GitHub"]
+  iconOrder = ["GitHub"]
 
   # Metadata for Twitter cards, defaults to params.twitter
   # twitterSite = "@<your handle>"

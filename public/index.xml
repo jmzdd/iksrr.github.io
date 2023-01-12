@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>codex</title>
-    <link>https://example.org/</link>
-    <description>Recent content on codex</description>
+    <title>jmzdd&#39;s blog</title>
+    <link>https://iksrr.tk/</link>
+    <description>Recent content on jmzdd&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>© {year}</copyright>
-    <lastBuildDate>Mon, 05 Sep 2022 11:57:00 +0800</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-CN</language>
+    <copyright>© {2022}</copyright>
+    <lastBuildDate>Mon, 05 Sep 2022 11:57:00 +0800</lastBuildDate><atom:link href="https://iksrr.tk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo&#43;Github Page搭建静态博客</title>
-      <link>https://example.org/blog/my-first-post/</link>
+      <link>https://iksrr.tk/blog/my-first-post/</link>
       <pubDate>Mon, 05 Sep 2022 11:57:00 +0800</pubDate>
       
-      <guid>https://example.org/blog/my-first-post/</guid>
+      <guid>https://iksrr.tk/blog/my-first-post/</guid>
       <description>图片保存文件名不允许包含数字，否则无法显示
 环境：Windows11 专业工作站版 工具：git，choco，hugo 主题：Codex 背景：已经在Github建立过基于Hexo的静态博客
 注意：请注意，此主题仅支持 Hugo 版本 82 及更高版本。
