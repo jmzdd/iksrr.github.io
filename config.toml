@@ -20,8 +20,10 @@ copyright = "© {2022}"
   dateFormat = "Jan 2 2006"
 
   # 链接到你的社交账户，根据需要评论/取消评论。图标将显示为指定的那些。
-  twitter = "https://twitter.com/<your handle>"
   github = "https://github.com/jmzdd"
+  wymusic = "https://music.163.com/#/user/home?id=1469345720"
+  bilibili = "https://space.bilibili.com/109396152/"
+  # twitter = "https://twitter.com/<your handle>"
   # email = "mailto:<your email>"
   # mastodon = "https://mastodon.social/@nickname"
   # facebook = "https://facebook.com/<your handle>"
@@ -33,7 +35,7 @@ copyright = "© {2022}"
   # 你的图标的标题（作为工具提示显示），以及它们的显示顺序
   # Currently, these icons are supported: 
   #   "Twitter", "GitHub", "Email", "Mastodon", "Facebook", "GitLab", "Instagram", "LinkedIn", "YouTube"
-  iconOrder = ["GitHub"]
+  iconOrder = ["GitHub","Bilibili","wymusic"]
 
   # Metadata for Twitter cards, defaults to params.twitter
   # twitterSite = "@<your handle>"
